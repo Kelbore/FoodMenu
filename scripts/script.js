@@ -53,6 +53,7 @@ let menu = {
     }
     if(category.value == "selectCategory") {
         member.options.length = 0;
+        member.size = 0;
     }
   }
 
